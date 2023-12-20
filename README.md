@@ -1,4 +1,5 @@
 ## Manoel Messias da Silva Neto 👋
+Sou um entusiasta de tecnologia e desenvolvimento de software, apaixonado por explorar novas tecnologias e resolver desafios.
 
 <!--
 **manoelmsnsi/manoelmsnsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
