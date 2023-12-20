@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manoelmsnsi&theme=dark&hide_border=true&count_private=true">&nbsp;
 ## Main skills
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -47,4 +46,4 @@ Here are some ideas to get you started:
   <a href = "mailto:manoelmsnsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manoel-messias-731659121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manoelmsnsi&theme=dark&hide_border=true&count_private=true">&nbsp;
