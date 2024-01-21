@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
+
 ## TOOLs
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/aws-actions)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
@@ -35,6 +37,8 @@ Here are some ideas to get you started:
 ![PostgreSql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
 ## DEVOPs
+![Git Actions](https://img.shields.io/badge/GitHub-Actions-blue?logo=github&logoColor=white)&nbsp;
+![BitBucket](https://img.shields.io/badge/Bitbucket-%20pipeline-test?logo=bitbucket&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-dockerswarm-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
 ![Portainer](https://img.shields.io/badge/-portainer-0D1117?style=for-the-badge&logo=portainer&labelColor=0D1117)&nbsp;
