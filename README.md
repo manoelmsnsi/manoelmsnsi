@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-code-green?logo=visual-studio-code&logoColor=white&labelColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/Azure-Services-green?logo=azure&logoColor=white&labelColor=black)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-Services-green?logo=aws&logoColor=white&labelColor=black)&nbsp;
+![Tencent](https://img.shields.io/badge/Tencent-Services-green?logoColor=white&labelColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github&logoColor=white&labelColor=black)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-Server-green?logo=Windows&logoColor=white&labelColor=black)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-Server-green?logo=linux&logoColor=white&labelColor=black)&nbsp;
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![Git Actions](https://img.shields.io/badge/Github-actions-white?logo=github&logoColor=white&labelColor=black)&nbsp;
 ![BitBucket](https://img.shields.io/badge/Bitbucket-pipelines-white?logo=bitbucket&logoColor=white&labelColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-Swarm-white?logo=docker&logoColor=white&labelColor=black)&nbsp;
+![Kubernets](https://img.shields.io/badge/kubernets-white?logo=Kubernetes&logoColor=white&labelColor=black)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-pipelines-white?logo=jenkins&logoColor=white&labelColor=black)&nbsp;
 ![Portainer](https://img.shields.io/badge/Portainer-manager-white?logo=portainer&logoColor=white&labelColor=black)&nbsp;
 ![Nginx](https://img.shields.io/badge/Nginx-proxymanager-white?logo=nginx&logoColor=white&labelColor=black)&nbsp;
