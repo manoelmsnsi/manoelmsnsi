@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/Jenkins-pipelines-white?logo=jenkins&logoColor=white&labelColor=black)&nbsp;
 ![Portainer](https://img.shields.io/badge/Portainer-manager-white?logo=portainer&logoColor=white&labelColor=black)&nbsp;
 ![Nginx](https://img.shields.io/badge/Nginx-proxymanager-white?logo=nginx&logoColor=white&labelColor=black)&nbsp;
+![Static Badge](https://img.shields.io/badge/ArgoCd-white?logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/AWS-white?logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GCP-white?logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TencentCloud-white?logoColor=white&labelColor=black)
 
 ## Technology
 ![Static Badge](https://img.shields.io/badge/FastApi-orange?logoColor=white&labelColor=black)
