@@ -1,85 +1,115 @@
-## Manoel Messias da Silva Neto 👋
-Sou um entusiasta de tecnologia e desenvolvimento de software, apaixonado por explorar novas tecnologias e resolver desafios.
+# 👋 Manoel Messias da Silva Neto  
 
-<!--
-**manoelmsnsi/manoelmsnsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Backend Developer | DevOps Engineer | Cloud & Data Specialist**
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e desenvolvimento de software, com foco em **arquiteturas backend escaláveis**, **automação de infraestrutura** e **observabilidade**.  
+Tenho sólida experiência em **Python**, **microsserviços**, **bancos de dados relacionais e NoSQL** e **orquestração de containers** — sempre buscando **qualidade, segurança e desempenho** em ambientes distribuídos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Main skills
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-language-blue?logo=javascript&logoColor=white&labelColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-language-blue?logo=python&logoColor=white&labelColor=black)&nbsp;
-![Php](https://img.shields.io/badge/php-language-blue?logo=php&logoColor=white&labelColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/html-language-blue?logo=html5&logoColor=white&labelColor=black)&nbsp;
-![CSS](https://img.shields.io/badge/css-language-blue?logo=css3&logoColor=white&labelColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GitHub-manager-blue?logo=github&logoColor=white&labelColor=black)&nbsp;
-![Jira](https://img.shields.io/badge/Jira-manager-blue?logo=jira&logoColor=white&labelColor=black)&nbsp;
-![ClickUp](https://img.shields.io/badge/ClickUp-manager-blue?logo=clickup&logoColor=white&labelColor=black)&nbsp;
+---
 
+## 🧩 Sobre mim
+- 🚀 Desenvolvedor backend com experiência em **sistemas distribuídos e microsserviços**
+- ⚙️ Especialista em **integrações complexas** e **pipelines de dados**
+- ☁️ Experiência com **AWS, GCP, Azure e Tencent Cloud**
+- 🧰 Praticante de **Infra as Code**, **CI/CD** e **GitOps**
+- 🔒 Foco em **segurança de APIs**, **OAuth2**, **JWT** e **API Gateway**
+- 🧑‍💻 Perfil **hands-on**: do design arquitetural ao deploy em produção
 
-## Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-code-green?logo=visual-studio-code&logoColor=white&labelColor=black)&nbsp;
-![AWS](https://img.shields.io/badge/Azure-Services-green?logo=azure&logoColor=white&labelColor=black)&nbsp;
-![Tencent](https://img.shields.io/badge/Tencent-Services-green?logoColor=white&labelColor=black)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-Code-green?logo=github&logoColor=white&labelColor=black)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-Server-green?logo=Windows&logoColor=white&labelColor=black)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-Server-green?logo=linux&logoColor=white&labelColor=black)&nbsp;
+---
 
-## DataBase
-![mariaDB](https://img.shields.io/badge/mariadb-database-black?logo=mariadb&logoColor=black&labelColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-database-black?logo=mysql&logoColor=black&labelColor=white)&nbsp;
-![PostgreSql](https://img.shields.io/badge/posgtresql-database-black?logo=postgresql&logoColor=black&labelColor=white)&nbsp;
+## 💻 Linguagens Principais
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-## DEVOPs
-![Git Actions](https://img.shields.io/badge/Github-actions-white?logo=github&logoColor=white&labelColor=black)&nbsp;
-![BitBucket](https://img.shields.io/badge/Bitbucket-pipelines-white?logo=bitbucket&logoColor=white&labelColor=black)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-Swarm-white?logo=docker&logoColor=white&labelColor=black)&nbsp;
-![Kubernets](https://img.shields.io/badge/kubernets-white?logo=Kubernetes&logoColor=white&labelColor=black)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-pipelines-white?logo=jenkins&logoColor=white&labelColor=black)&nbsp;
-![Portainer](https://img.shields.io/badge/Portainer-manager-white?logo=portainer&logoColor=white&labelColor=black)&nbsp;
-![Nginx](https://img.shields.io/badge/Nginx-proxymanager-white?logo=nginx&logoColor=white&labelColor=black)&nbsp;
-![Static Badge](https://img.shields.io/badge/ArgoCd-white?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/AWS-white?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/GCP-white?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/TencentCloud-white?logoColor=white&labelColor=black)
+---
 
-## Technology
-![Static Badge](https://img.shields.io/badge/FastApi-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Django-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/RabbitMq-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Redis-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Poetry-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Pip-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/alembic-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/SqlAchemy-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Selenium-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Playwright-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/PDO-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Bootstrap-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Flask-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/elastic-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Grafana-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/DataDog-orange?logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Kuma-orange?logoColor=white&labelColor=black)
+## ⚙️ Frameworks, Libs e Ferramentas Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FB7A24?style=flat-square)
+![Alembic](https://img.shields.io/badge/Alembic-CC7722?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
+![Argo Workflows](https://img.shields.io/badge/Argo%20Workflows-FC6D26?style=flat-square&logo=argo&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kong Proxy](https://img.shields.io/badge/Kong%20API%20Gateway-003459?style=flat-square&logo=kong&logoColor=white)
+![OAuth2 Proxy](https://img.shields.io/badge/OAuth2%20Proxy-3D5AFE?style=flat-square&logo=openid&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square)
+![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square)
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=flat-square)
 
+---
 
+## 🧰 DevOps, CI/CD e Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=flat-square&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikmesh&logoColor=white)
 
+---
 
+## ☁️ Cloud Providers
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Tencent Cloud](https://img.shields.io/badge/Tencent%20Cloud-00A4FF?style=flat-square&logo=tencentcloud&logoColor=white)
 
+---
 
-## CONTACT
-<div>
-  <a href="https://www.instagram.com/manoelmsnsi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:manoelmsnsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/manoel-messias-731659121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+## 🗄️ Banco de Dados e Mensageria
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+---
+
+## 📊 Monitoramento, Logging e Observabilidade
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square)
+![Elastic Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square)
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=flat-square)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5A5A5A?style=flat-square)
+
+---
+
+## 🧠 Atualmente explorando
+- ⚙️ **Argo Workflows** e **Apache Airflow** para orquestração de pipelines
+- 🧱 **Kong Gateway** e **OAuth2 Proxy** para segurança e roteamento de APIs
+- ☁️ **Infraestrutura GitOps com ArgoCD + Terraform**
+- 📊 **Observabilidade avançada com Grafana, DataDog e ELK**
+- 🧩 Arquiteturas orientadas a eventos (**RabbitMQ**, **Redis Streams**)
+- 🔒 **Zero Trust**, **OIDC**, e **segurança de autenticação distribuída**
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="mailto:manoelmsnsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/manoel-messias-731659121/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/manoelmsnsi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-<hr>
+
+---
+
+
